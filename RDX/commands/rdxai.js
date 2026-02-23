@@ -13,9 +13,10 @@ const path = require("path");
 // --- DYNAMIC COMMAND LOADER ---
 function getCommandsInfo() {
   const commands = [];
-  if (global.client && global.client.commands) {
+  // Safely check if global.client and commands exist
+  if (global.client && global.client.commands && global.client.commands instanceof Map) {
     for (const [name, command] of global.client.commands) {
-      if (command.config) {
+      if (command && command.config) {
         commands.push({
           name: command.config.name,
           description: command.config.description,
@@ -59,8 +60,7 @@ ${cmdListStr}
 
 // --- AI CONFIGURATION ---
 const API_KEYS = [
-  'csk-vd9ywcn55vh6yn88h8m5wee93dp9ccxmxrnd99jttxjt9938',
-  'csk-ndtww2mknrhttp868w92hv443j48jf442j3h86kkyw5jhdxn'
+  'csk-mpjy6rntffw8w58c6p6h6cey5dwtjm6hc23d64fxxr6menrv'
 ];
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 const HISTORY_FILE = path.join(__dirname, "cache", "rdxai_history.json");
@@ -207,7 +207,8 @@ function detectCommandQuery(message) {
     return { type: 'guide', guide: 'bank' };
   }
 
-  if (global.client && global.client.commands) {
+  // Safely check global.client
+  if (global.client && global.client.commands && global.client.commands instanceof Map) {
     for (const [name, cmd] of global.client.commands) {
       if (cmd && cmd.config && cmd.config.name) {
         const cmdName = cmd.config.name.toLowerCase();
@@ -230,7 +231,7 @@ function detectWrongCommand(message, prefix = '.') {
   if (!firstWord || !firstWord.startsWith(prefix.toLowerCase())) return null;
 
   const cmdName = firstWord.replace(prefix.toLowerCase(), '').trim();
-  if (!cmdName || !global.client || !global.client.commands) return null;
+  if (!cmdName || !global.client || !global.client.commands || !(global.client.commands instanceof Map)) return null;
 
   if (global.client.commands.has(cmdName)) return null;
 
@@ -267,7 +268,7 @@ module.exports = {
   config: {
     credits: "SARDAR RDX",
     name: 'rdxai',
-    aliases: ['ai', 'helper'],
+    aliases: ['ai', 'helper', 'rdx', 'guide', 'support'],
     description: 'RDX AI Helper - AI Chat Assistant',
     usage: 'rdxai [question]',
     category: 'Utility',

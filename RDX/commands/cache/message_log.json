@@ -1,1 +1,679 @@
-{}
+{
+  "mid.$gAAMyWH_HZZiiu3autmcijFfuheJs": {
+    "content": ".help all",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845020134
+  },
+  "mid.$gAAMyWH_HZZiiu3a0gGcijFqgXr7Z": {
+    "content": "⚝──⭒─⭑─⭒──⚝\n📖 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭:\n\n⟬1⟭\n╰┈➤4k\n⪼ 𝐔𝐬𝐚𝐠𝐞: .4k reply to an image with 4k\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Image\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Enhance image to 4k using Remini API\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 5s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: User\n\n⟬2⟭\n╰┈➤accbot\n⪼ 𝐔𝐬𝐚𝐠𝐞: .accbot\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Admin\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Xem thông tin account bot\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 5s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: User\n\n⟬3⟭\n╰┈➤acp\n⪼ 𝐔𝐬𝐚𝐠𝐞: .acp add | del <number | all>\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Administration\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Manage friend requests on Facebook\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 0s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Bot Administrator\n\n⟬4⟭\n╰┈➤adc\n⪼ 𝐔𝐬𝐚𝐠𝐞: .adc [reply or text]\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Admin\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: upcode pastebin\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 0s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Bot Administrator\n\n⟬5⟭\n╰┈➤addcmd\n⪼ 𝐔𝐬𝐚𝐠𝐞: .addcmd [reply to set name then reply with code]\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Admin\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Add new command to bot\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 5s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Bot Administrator\n\n⟬6⟭\n╰┈➤adduser\n⪼ 𝐔𝐬𝐚𝐠𝐞: .adduser [link | uid]\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Administration\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Add a user to the group using a link or UID\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 5s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Group Administrator\n\n⟬7⟭\n╰┈➤admin\n⪼ 𝐔𝐬𝐚𝐠𝐞: .admin [list | add | del | addntb | delntb | qtvonly | ntbonly | only | ibonly]\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Administration\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Configure admin settings for the bot\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 2s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Bot Administrator\n\n⟬8⟭\n╰┈➤adminsonly\n⪼ 𝐔𝐬𝐚𝐠𝐞: .adminsonly qtvonly\n⪼ 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Admin\n⪼ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: Manage bot admin mode\n⪼ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: 5s\n⪼ 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧: Group Administrator\n\n≿━━━━༺❀༻━━━━≾\n⊶ 𝐏𝐚𝐠𝐞 (1/22)\n⊶ 𝐔𝐬𝐞: \".help2 <command>\" 𝐟𝐨𝐫 𝐝𝐞𝐭𝐚𝐢𝐥𝐬.\n⊶ 𝐓𝐨𝐭𝐚𝐥: 176 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬.\n⊶ 𝐔𝐬𝐞 .help2 <page number>",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845021494
+  },
+  "mid.$gAAMyWH_HZZiiu3fkJGcijKVGlvyo": {
+    "content": ".pair7 @Alina Khan",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845098894
+  },
+  "mid.$gAAMyWH_HZZiiu3gIlWcijK9-URJf": {
+    "content": ".convo on 5 @Cɔcɔ Nuʈ",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845108658
+  },
+  "mid.$gAAMyWH_HZZiiu3gN9GcijLEaJjSZ": {
+    "content": "✅ convo started with 5s interval.",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845109592
+  },
+  "mid.$gAAMyWH_HZZiiu3ghn2cijLX833KA": {
+    "content": "‎@Cɔcɔ Nuʈ ‎‎《:❎💮——-💔>——–🔥———😔ــہہہـ٨ـــ٨ــــــ💮❎:》‎",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845114709
+  },
+  "mid.$gAAMyWH_HZZiiu3hIoWcijL_BYDjO": {
+    "content": "‎@Cɔcɔ Nuʈ ▆◤▬▭▬▭▬▭▬▭▬▭▬▭▬◥▆",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845124608
+  },
+  "mid.$gAAMyWH_HZZiiu3ha22cijMQEXNVs": {
+    "content": ".convo off",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845129295
+  },
+  "mid.$gAAMyWH_HZZiiu3hfSWcijMSjjVea": {
+    "content": "‎@Cɔcɔ Nuʈ ❤🌹#_Wᵒʷ_Oˢᵐ.🌹❤#Ω❍❍❍Ω 👌👌🔙🔙😍😍😘😘😻😻🔙🔙💜💜💛💛💞💞🔙🔙💙💙💚💚💕💕🔙🔙💗💗💖💖💟💟🔙🔙🙀💋🔥💦⚡☄🔙🔙🙊🙉🌚💥💫🍁🔚🔚",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845130576
+  },
+  "mid.$gAAMyWH_HZZiiu3hhAmcijMW3_Lj8": {
+    "content": "✅ convo has been turned off.",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845130838
+  },
+  "mid.$gAAMyWH_HZZiiu3iRfWcijNCN_XUO": {
+    "content": ".convo on",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845143284
+  },
+  "mid.$gAFVLOf-xtACiu3iYQ2cijNHzUxUK": {
+    "content": "Bola to hy",
+    "attachments": [],
+    "senderID": "61552258073033",
+    "threadID": "24008085495460864",
+    "timestamp": 1771845145452
+  },
+  "mid.$gAAMyWH_HZZiiu3jQgWcijOBdKsMo": {
+    "content": "😏",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845159408
+  },
+  "mid.$gAAMyWH_HZZiiu3kbN2cijPQvbFJj": {
+    "content": ".enjoy @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845178541
+  },
+  "mid.$gAAMyWH_HZZiiu3ksgGcijPi-gxZZ": {
+    "content": "‎Oye BaBe CoMe HeRe 😗@⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845183024
+  },
+  "mid.$gAAMyWH_HZZiiu3k4XGcijPussK41": {
+    "content": "Main Uh K0o BtaTai TraRak Kya HoTi  🥵🫂",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845185989
+  },
+  "mid.$gAAMyWH_HZZiiu3lbXmcijQR2-e8t": {
+    "content": "‎JaMu MeKo Uh ITny Axhy LagTy Jse PaNi K0o AGG LagTi Hai 🤣🙊😂@⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845195076
+  },
+  "mid.$gAAMyWH_HZZiiu3lcr2cijQNRg3D3": {
+    "content": ".\n\nha",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845195417
+  },
+  "mid.$gAAMyWH_HZZiiu3lvFGcijQkdCZRZ": {
+    "content": ".lock @Itz Eshu",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845200171
+  },
+  "mid.$gAAMyWH_HZZiiu3mCbGcijQ46ytrB": {
+    "content": "‎JaNuuuuu @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845205011
+  },
+  "mid.$gAAMyWH_HZZiiu3mEr2cijQ1rZwPv": {
+    "content": "😂😂",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845205568
+  },
+  "mid.$gAAMyWH_HZZiiu3mpp2cijRf-wamd": {
+    "content": "‎i Really Ilu 🤏🏻 Sa ☹️ @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845214988
+  },
+  "mid.$gAAMyWH_HZZiiu3mwvWcijRgEw8Fo": {
+    "content": "ni",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845216820
+  },
+  "mid.$gAAMyWH_HZZiiu3nQnmcijSHC_UT1": {
+    "content": "‎Axha ShoLy Naw☹️☹️☹️ @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845225031
+  },
+  "mid.$gAAMyWH_HZZiiu3oLOGcijTBot9WI": {
+    "content": "‎🤭@⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845239948
+  },
+  "mid.$gAAMyWH_HZZiiu3oSzWcijTDsOfdc": {
+    "content": "HATT THARKI",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845241951
+  },
+  "mid.$gAAMyWH_HZZiiu3oevmcijTVKgCjw": {
+    "content": "‎Hawn T0o JaNu ThaKi Kaha The Ham 🥵 @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845244948
+  },
+  "mid.$gAFVLOf-xtACiu3o_LWcijT1cQs9M": {
+    "content": "Sardar kedr Hy💔😃",
+    "attachments": [],
+    "senderID": "61579693844641",
+    "threadID": "24008085495460864",
+    "timestamp": 1771845253565
+  },
+  "mid.$gAAMyWH_HZZiiu3pM_WcijT9yg9cT": {
+    "content": "KAHI NAI JANU",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845256985
+  },
+  "mid.$gAAMyWH_HZZiiu3qOjWcijVEIBMRS": {
+    "content": ".convo on 7 @Arie Hasit",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845273773
+  },
+  "mid.$gAAMyWH_HZZiiu3qUO2cijVKmpS0i": {
+    "content": "✅ convo started with 7s interval.",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845275169
+  },
+  "mid.$gAAMyWH_HZZiiu3qvkmcijVl8ktAh": {
+    "content": "‎@Arie Hasit ‎‎《:❎💮——-💔>——–🔥———😔ــہہہـ٨ـــ٨ــــــ💮❎:》‎",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845282027
+  },
+  "mid.$gAAMyWH_HZZiiu3rLEGcijWBTFo3I": {
+    "content": "‎@Arie Hasit 🌹💚▬▬🅛🔴🅥🅔🅛🅨▬▬💚🌹🌲❀꧁#ℕĭĭĭĭℂe ꧂❀🌲🌹",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845289097
+  },
+  "mid.$gAAMyWH_HZZiiu3raQGcijWLRdB9S": {
+    "content": "skip",
+    "attachments": [],
+    "senderID": "61551447140312",
+    "threadID": "899780612416920",
+    "timestamp": 1771845292998
+  },
+  "mid.$gAAMyWH_HZZiiu3rmbWcijWcpLAve": {
+    "content": "‎@Arie Hasit ▆◤▬▭▬▭▬▭▬▭▬▭▬▭▬◥▆",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845296078
+  },
+  "mid.$gAAMyWH_HZZiiu3sB7WcijW3_s9Qn": {
+    "content": "‎@Arie Hasit ❤🌹#_Wᵒʷ_Oˢᵐ.🌹❤#Ω❍❍❍Ω 👌👌🔙🔙😍😍😘😘😻😻🔙🔙💜💜💛💛💞💞🔙🔙💙💙💚💚💕💕🔙🔙💗💗💖💖💟💟🔙🔙🙀💋🔥💦⚡☄🔙🔙🙊🙉🌚💥💫🍁🔚🔚",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845303134
+  },
+  "mid.$gAAMyWH_HZZiiu3sdAGcijXTVi59k": {
+    "content": "‎@Arie Hasit ❥#しѺvεℓγ..😍👌💋- °〇メლм__♥❤”👑 ☄️ “_『A W ɘ S O M ɘ #🍂 “-🖤N Ɪ Ɪ C’ə°🔐🔙.🔙🔙🔙🔙🔙🔙",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845310080
+  },
+  "mid.$gAAMyWH_HZZiiu3s4gmcijXur6QyJ": {
+    "content": "‎@Arie Hasit ᥬ🥶᭄ ᥬ🥰᭄ ᥬ😳᭄ ᥬ😝᭄ ᥬ😚᭄ ᥬ😁᭄ ᥬ🙄᭄ ᥬ😱᭄ ᥬ🤡᭄ ᥬ👻᭄ ᥬ🥵᭄ ᥬ🤢᭄ ᥬ😒᭄ ᥬ🤐",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845317114
+  },
+  "mid.$gAAMyWH_HZZiiu3tUPGcijYKCoVnj": {
+    "content": "‎@Arie Hasit ❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845324218
+  },
+  "mid.$gAAMyWH_HZZiiu3tvBGcijYlZMIfp": {
+    "content": "‎@Arie Hasit 0000 ● ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ 0402 ⇆ ㅤㅤㅤㅤ ◁ ㅤㅤ ❚ ❚ ㅤㅤ ▷ ㅤㅤㅤㅤ ↻",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845331050
+  },
+  "mid.$gAAMyWH_HZZiiu3uDKmcijY4pZhOO": {
+    "content": ".lock @Cɔcɔ Nuʈ",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845336241
+  },
+  "mid.$gAAMyWH_HZZiiu3uKw2cijZAvWR_3": {
+    "content": "‎@Arie Hasit ❤🌹#_Wᵒʷ_Oˢᵐ.🌹❤#ω❍❍❍ω 👌👌🔙🔙😍😍😘😘😻😻🔙🔙💜💜💛💛💞💞🔙🔙💙💙💚💚💕💕🔙🔙💗💗💖💖💟💟🔙🔙🙀💋🔥💦⚡☄🔙🔙🙊🙉🌚💥💫🍁🔚🔚",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845338307
+  },
+  "mid.$gAAMyWH_HZZiiu3uli2cijZcFqZob": {
+    "content": "‎@Arie Hasit ‎‎《:❎💮——-💔>——–🔥———😔ــہہہـ٨ـــ٨ــــــ💮❎:》‎",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845345093
+  },
+  "mid.$gAAMyWH_HZZiiu3vBOmcijZ3cIayX": {
+    "content": "‎@Arie Hasit 🌹💚▬▬🅛🔴🅥🅔🅛🅨▬▬💚🌹🌲❀꧁#ℕĭĭĭĭℂe ꧂❀🌲🌹",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845352108
+  },
+  "mid.$gAAMyWH_HZZiiu3vcZWcijaSyYdm3": {
+    "content": "‎@Arie Hasit ▆◤▬▭▬▭▬▭▬▭▬▭▬▭▬◥▆",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845359053
+  },
+  "mid.$gAAMyWH_HZZiiu3vyhGcijaoDis7E": {
+    "content": ".lock theme",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845364771
+  },
+  "mid.$gAAMyWH_HZZiiu3v3g2cijauIpmg-": {
+    "content": "‎@Arie Hasit ❤🌹#_Wᵒʷ_Oˢᵐ.🌹❤#Ω❍❍❍Ω 👌👌🔙🔙😍😍😘😘😻😻🔙🔙💜💜💛💛💞💞🔙🔙💙💙💚💚💕💕🔙🔙💗💗💖💖💟💟🔙🔙🙀💋🔥💦⚡☄🔙🔙🙊🙉🌚💥💫🍁🔚🔚",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845366168
+  },
+  "mid.$gAAMyWH_HZZiiu3wTEmcijbJe0PYo": {
+    "content": "‎@Arie Hasit ❥#しѺvεℓγ..😍👌💋- °〇メლм__♥❤”👑 ☄️ “_『A W ɘ S O M ɘ #🍂 “-🖤N Ɪ Ɪ C’ə°🔐🔙.🔙🔙🔙🔙🔙🔙",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845373052
+  },
+  "mid.$gAAMyWH_HZZiiu3waUmcijbOXWj34": {
+    "content": ".lock theme",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845374872
+  },
+  "mid.$gAAMyWH_HZZiiu3wucmcijbk1Eng0": {
+    "content": "‎@Arie Hasit ᥬ🥶᭄ ᥬ🥰᭄ ᥬ😳᭄ ᥬ😝᭄ ᥬ😚᭄ ᥬ😁᭄ ᥬ🙄᭄ ᥬ😱᭄ ᥬ🤡᭄ ᥬ👻᭄ ᥬ🥵᭄ ᥬ🤢᭄ ᥬ😒᭄ ᥬ🤐",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845380037
+  },
+  "mid.$gAAMyWH_HZZiiu3xKBWcijcALVrJL": {
+    "content": "‎@Arie Hasit ❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝❰⃝𒁂❮⃝⃟⃝",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845387139
+  },
+  "mid.$gAAMyWH_HZZiiu3xQWWcijcF5HV4K": {
+    "content": ".lock theme on",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845388759
+  },
+  "mid.$gAAMyWH_HZZiiu3xlKGcijcbhXDtl": {
+    "content": "‎@Arie Hasit 0000 ● ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ 0402 ⇆ ㅤㅤㅤㅤ ◁ ㅤㅤ ❚ ❚ ㅤㅤ ▷ ㅤㅤㅤㅤ ↻",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845394127
+  },
+  "mid.$gAAMyWH_HZZiiu3xla2cijcbzWSKu": {
+    "content": "Usage: convo on |seconds| @mention or convo off",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845394399
+  },
+  "mid.$gAAMyWH_HZZiiu3yAm2cijc23t8f9": {
+    "content": "‎@Arie Hasit ❤🌹#_Wᵒʷ_Oˢᵐ.🌹❤#ω❍❍❍ω 👌👌🔙🔙😍😍😘😘😻😻🔙🔙💜💜💛💛💞💞🔙🔙💙💙💚💚💕💕🔙🔙💗💗💖💖💟💟🔙🔙🙀💋🔥💦⚡☄🔙🔙🙊🙉🌚💥💫🍁🔚🔚",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845401091
+  },
+  "mid.$gAAMyWH_HZZiiu3yb6mcijdSOHzFK": {
+    "content": "‎@Arie Hasit ‎‎《:❎💮——-💔>——–🔥———😔ــہہہـ٨ـــ٨ــــــ💮❎:》‎",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845408056
+  },
+  "mid.$gAAMyWH_HZZiiu3y3SWcijdtkkJ3D": {
+    "content": "‎@Arie Hasit 🌹💚▬▬🅛🔴🅥🅔🅛🅨▬▬💚🌹🌲❀꧁#ℕĭĭĭĭℂe ꧂❀🌲🌹",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845415073
+  },
+  "mid.$gAAMyWH_HZZiiu3zWTWcijeI6wv5V": {
+    "content": "‎@Arie Hasit ▆◤▬▭▬▭▬▭▬▭▬▭▬▭▬◥▆",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845423004
+  },
+  "mid.$gAAMyWH_HZZiiu3zir2cijeYNCZVv": {
+    "content": ".convo off",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771845426233
+  },
+  "mid.$gAAMyWH_HZZiiu3zoH2cijeeWdsF2": {
+    "content": "✅ convo has been turned off.",
+    "attachments": [],
+    "senderID": "61586388058982",
+    "threadID": "899780612416920",
+    "timestamp": 1771845427961
+  },
+  "mid.$gAAMyWH_HZZiivHIXimciyzLa_9F_": {
+    "content": "Rdxai",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861496129
+  },
+  "mid.$gAAMyWH_HZZiivHI9yWciyzxwHPsV": {
+    "content": "Rdxai kase ho",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861505920
+  },
+  "mid.$gAFVLOf-xtACivHKwN2ciy1lFF3jN": {
+    "content": "🥰",
+    "attachments": [],
+    "senderID": "61583495780017",
+    "threadID": "24008085495460864",
+    "timestamp": 1771861535655
+  },
+  "mid.$gAAMyWH_HZZiivHL7qGciy2vhRpLj": {
+    "content": ". transfer @⤾➝ROMEO↬ X⤹❤️‍🩹🙂⇣  10",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861554515
+  },
+  "mid.$gAAMyWH_HZZiivHM60Wciy3u14ABE": {
+    "content": ". balance",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861570642
+  },
+  "mid.$gAFVLOf-xtACivHh9PGcizMx00GdK": {
+    "content": ".restart",
+    "attachments": [],
+    "senderID": "61583495780017",
+    "threadID": "24008085495460864",
+    "timestamp": 1771861915426
+  },
+  "mid.$gAAMyWH_HZZiivHiJNWcizM--EZfj": {
+    "content": "Sahi",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771861918603
+  },
+  "mid.$gAAMyWH_HZZiivHid5WcizNRap15X": {
+    "content": "Bot",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861924183
+  },
+  "mid.$gAAMyWH_HZZiivHjGeWcizN8Fg0SK": {
+    "content": "Error hai",
+    "attachments": [],
+    "senderID": "100053706995870",
+    "threadID": "899780612416920",
+    "timestamp": 1771861934446
+  },
+  "mid.$gAAMyWH_HZZiivHjYIGcizOL7EOds": {
+    "content": "Tabhi to AJ public nhi kia",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861938609
+  },
+  "mid.$gAAMyWH_HZZiivHjcL2cizOFtAt1C": {
+    "content": "",
+    "attachments": [
+      {
+        "type": "photo",
+        "ID": "4233989913534438",
+        "filename": "image-4233989913534438",
+        "fileSize": 74970,
+        "original_extension": "jpg",
+        "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/639465086_25918754211126117_2674279357004710107_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnVSOjUnV8GTqgZHkvbQ8jK4oTjmcC6torihOOZwLq2h9joWq2nBJ8IugeakHChx_TL3SlEkphrhfjSAHWXcvr&_nc_ohc=dzZs2mz7QEYQ7kNvwFVY_r_&_nc_oc=AdnIf8YlwMGYfYVnkJuwB_-VzS4bfwqx3uNCbjOe3TK8WhIp4sN2ucP_mMMtF6c2b8k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD4gEliqBZHzsuW_aP9ATI0vdGVL10JpZ_T0OkbRhaXqpUmg&oe=69C3F24C",
+        "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/639465086_25918754211126117_2674279357004710107_n.jpg?stp=dst-jpg_p280x280_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnVSOjUnV8GTqgZHkvbQ8jK4oTjmcC6torihOOZwLq2h9joWq2nBJ8IugeakHChx_TL3SlEkphrhfjSAHWXcvr&_nc_ohc=dzZs2mz7QEYQ7kNvwFVY_r_&_nc_oc=AdnIf8YlwMGYfYVnkJuwB_-VzS4bfwqx3uNCbjOe3TK8WhIp4sN2ucP_mMMtF6c2b8k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD4gG4XKzBR33S_NE0K-szUgHodL-9BAZRYpc9p_q1ZVlPUQ&oe=69C3F24C",
+        "previewWidth": 280,
+        "previewHeight": 622,
+        "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/639465086_25918754211126117_2674279357004710107_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnVSOjUnV8GTqgZHkvbQ8jK4oTjmcC6torihOOZwLq2h9joWq2nBJ8IugeakHChx_TL3SlEkphrhfjSAHWXcvr&_nc_ohc=dzZs2mz7QEYQ7kNvwFVY_r_&_nc_oc=AdnIf8YlwMGYfYVnkJuwB_-VzS4bfwqx3uNCbjOe3TK8WhIp4sN2ucP_mMMtF6c2b8k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD4gGgcjBxLx8eSnyvJ0lZNE0OLwYGBR9o2pk7rqg2Qwj0NA&oe=69C3F24C",
+        "largePreviewWidth": 480,
+        "largePreviewHeight": 1066,
+        "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/639465086_25918754211126117_2674279357004710107_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEnVSOjUnV8GTqgZHkvbQ8jK4oTjmcC6torihOOZwLq2h9joWq2nBJ8IugeakHChx_TL3SlEkphrhfjSAHWXcvr&_nc_ohc=dzZs2mz7QEYQ7kNvwFVY_r_&_nc_oc=AdnIf8YlwMGYfYVnkJuwB_-VzS4bfwqx3uNCbjOe3TK8WhIp4sN2ucP_mMMtF6c2b8k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD4gGgcjBxLx8eSnyvJ0lZNE0OLwYGBR9o2pk7rqg2Qwj0NA&oe=69C3F24C",
+        "width": 922,
+        "height": 2048,
+        "name": "image-4233989913534438"
+      }
+    ],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771861940071
+  },
+  "mid.$gAFVLOf-xtACivHji9mcizOYKfAFi": {
+    "content": "🥰",
+    "attachments": [],
+    "senderID": "100074269952016",
+    "threadID": "24008085495460864",
+    "timestamp": 1771861941853
+  },
+  "mid.$gAAMyWH_HZZiivHj9WWcizOxUAZG1": {
+    "content": "Warna AJ public kr Dena tha",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861948140
+  },
+  "mid.$gAFVLOf-xtACivHkFpGcizO6ZNpUp": {
+    "content": ". reload",
+    "attachments": [],
+    "senderID": "61583495780017",
+    "threadID": "24008085495460864",
+    "timestamp": 1771861950320
+  },
+  "mid.$gAAMyWH_HZZiivHlMimcizQCfmXI8": {
+    "content": "Bot running ha but ye limitation ka error aa rha sala pata nhi achank se aa gya h",
+    "attachments": [],
+    "senderID": "61588112703542",
+    "threadID": "899780612416920",
+    "timestamp": 1771861968754
+  },
+  "mid.$gAAMyWH_HZZiivHloRGcizQb_m8EQ": {
+    "content": "Ammm 19 20 ka frq hy",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861975689
+  },
+  "mid.$gAAMyWH_HZZiivHnCgGcizR2cB0Oi": {
+    "content": "Mera ro run hi nhi ho RHA tha kuch or ho ga issue phr",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771861998695
+  },
+  "mid.$gAFVLOf-xtACivHnpSWcizSd8_JZJ": {
+    "content": "Suno",
+    "attachments": [],
+    "senderID": "61583495780017",
+    "threadID": "24008085495460864",
+    "timestamp": 1771862008576
+  },
+  "mid.$gAAMyWH_HZZiivHowGWcizTkC65mw": {
+    "content": ".uid @ۦ ۦ ۦ ۦ",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862026724
+  },
+  "mid.$gAAMyWH_HZZiivHpL3mcizT_vlI7u": {
+    "content": "Okie hy",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862033821
+  },
+  "mid.$gAFVLOf-xtACivHszDmcizXkGtTwI": {
+    "content": "🥰",
+    "attachments": [],
+    "senderID": "100089379956315",
+    "threadID": "24008085495460864",
+    "timestamp": 1771862093719
+  },
+  "mid.$gAAMyWH_HZZiivHtdCWcizYTf_gF6": {
+    "content": "😒",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862103702
+  },
+  "mid.$gAAMyWH_HZZiivHuH3WcizY-V14f7": {
+    "content": "I am naraz u sey",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862114739
+  },
+  "mid.$gAAMyWH_HZZiivHuT2mcizZKbAZ7q": {
+    "content": "😒",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862117779
+  },
+  "mid.$gAAMyWH_HZZiivHvJPmcizZ9IU2VZ": {
+    "content": "Ya Allah Khair ho kio",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862131410
+  },
+  "mid.$gAAMyWH_HZZiivHv3V2cizat54oje": {
+    "content": "Ib me kal msg kri",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862143308
+  },
+  "mid.$gAAMyWH_HZZiivHwMS2cizbC7A2FZ": {
+    "content": "Seen na kiya aaj tak",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862148568
+  },
+  "mid.$gAAMyWH_HZZiivHw2QGcizbqQpEvb": {
+    "content": "Ma us id pa on hi nhi Aya yarr",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862159387
+  },
+  "mid.$gAAMyWH_HZZiivHx1bWcizcsD7OFc": {
+    "content": "Jhutta",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862175578
+  },
+  "mid.$gAAMyWH_HZZiivHyFl2cizc8L6epH": {
+    "content": "😒",
+    "attachments": [],
+    "senderID": "61550534939001",
+    "threadID": "899780612416920",
+    "timestamp": 1771862179695
+  },
+  "mid.$gAAMyWH_HZZiivHybGGcizdO8i_kf": {
+    "content": "Such ma",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862185252
+  },
+  "mid.$gAAMyWH_HZZiivHy2s2cizdqjVivi": {
+    "content": "Acha ruko ata hu",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862192209
+  },
+  "mid.$gAAMyWH_HZZiivIBpQ2cizsc9Pkmv": {
+    "content": ".",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862434517
+  },
+  "mid.$gAAMyWH_HZZiivICrxGciztfkRjMP": {
+    "content": "Okie.",
+    "attachments": [],
+    "senderID": "100004807696030",
+    "threadID": "899780612416920",
+    "timestamp": 1771862451604
+  }
+}

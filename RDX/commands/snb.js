@@ -1,8 +1,35 @@
 const fs = require('fs-extra');
 const path = require('path');
 
+const snbGroupsFile = path.join(__dirname, '../../Data/system/snb_groups.json');
+
+// Load saved SNB groups
+function loadSnbGroups() {
+  try {
+    if (fs.existsSync(snbGroupsFile)) {
+      return fs.readJsonSync(snbGroupsFile);
+    }
+  } catch (e) { }
+  return [];
+}
+
+// Save SNB groups
+function saveSnbGroups(groups) {
+  fs.writeJsonSync(snbGroupsFile, groups);
+}
+
+// Add new groups to SNB list
+function addSnbGroup(groupID) {
+  const groups = loadSnbGroups();
+  if (!groups.includes(groupID)) {
+    groups.push(groupID);
+    saveSnbGroups(groups);
+  }
+}
+
 module.exports = {
-  config: { credits: "SARDAR RDX",
+  config: {
+    credits: "SARDAR RDX",
     name: 'snb',
     aliases: ['sharenewbot', 'newbot'],
     description: 'Share a new bot profile with a notification message to all groups',
@@ -17,7 +44,7 @@ module.exports = {
 
     const input = args[0];
     const additionalMsg = args.slice(1).join(' ') || '';
-    
+
     // Extract UID from link if necessary
     let targetID = input;
     if (input.includes('facebook.com') || input.includes('fb.com')) {
@@ -56,6 +83,7 @@ module.exports = {
       try {
         const groupID = group.threadID || group.id;
         await api.shareContact(broadcastMessage, targetID, groupID);
+        addSnbGroup(groupID); // Save successful group ID
         successCount++;
         await new Promise(r => setTimeout(r, 3000)); // 3s delay for safety
       } catch (e) {
@@ -63,7 +91,7 @@ module.exports = {
       }
     }
 
-    return send.reply(`✅ Finished sharing new bot!\n🟢 Success: ${successCount}\n🔴 Failed: ${failCount}`);
+    return send.reply(`✅ Finished sharing new bot!\n🟢 Success: ${successCount}\n🔴 Failed: ${failCount}\n📋 Groups saved: ${successCount}`);
   }
 };
 
