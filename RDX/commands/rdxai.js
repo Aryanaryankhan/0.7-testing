@@ -60,7 +60,8 @@ ${cmdListStr}
 
 // --- AI CONFIGURATION ---
 const API_KEYS = [
-  'csk-mpjy6rntffw8w58c6p6h6cey5dwtjm6hc23d64fxxr6menrv'
+  'csk-mpjy6rntffw8w58c6p6h6cey5dwtjm6hc23d64fxxr6menrv',
+  'csk-trywmwk9xjch94d82hhn6cvdh69w359dyvkdf3xtjxepjj3f'
 ];
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 const HISTORY_FILE = path.join(__dirname, "cache", "rdxai_history.json");
